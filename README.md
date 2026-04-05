@@ -55,8 +55,8 @@ You are free to use any AI tools you'd like. What matters is the end result.
 
 ### Deployed demo
 
-- **URL:** _Add your GitHub Pages / Firebase / other URL here after deploy._
+- **URL:** https://MohamedHassan697156.github.io/chat-scroll-task/
 
 ### Screen recording
 
-- _Add a link to your screen recording (e.g. Loom / Drive) showing: streaming follow-scroll, scroll away to pause, scroll back to bottom to resume, and a new message after reading history._
+- _Add a link to your screen recording (Loom, Google Drive, etc.) showing: (1) auto-scroll while the reply streams, (2) scroll up to read older content and confirm follow pauses, (3) scroll back to the bottom and confirm follow resumes, (4) send a new message after reading history and confirm it follows again._
